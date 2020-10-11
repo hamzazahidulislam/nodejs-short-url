@@ -1,4 +1,4 @@
-# Project Name: Wordify 
+# Project Name: Url Shortener
 
 ## How To Setup On Windows
 1. Download Project  From This url :  `https://github.com/hamzazahidulislam/nodejs-short-url`
